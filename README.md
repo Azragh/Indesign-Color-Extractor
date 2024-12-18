@@ -8,7 +8,7 @@ A powerful script for Adobe InDesign that automatically extracts the HEX, RGB, a
 - Updates text fields in your document that are labeled with the same name as the swatch.
 - Ensures accuracy and saves time by eliminating manual entry.
 
-![Example of labeled text fields](assets/screenshot.png)
+![Example of labeled text fields](Screenshot.png)
 
 ## Requirements
 
